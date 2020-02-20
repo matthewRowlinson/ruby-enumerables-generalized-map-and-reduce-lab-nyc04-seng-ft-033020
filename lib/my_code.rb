@@ -9,4 +9,5 @@ def map(array)
   return_array 
 end
 
-def reduce(array)
+def reduce(array, starting_point = 0)
+  
